@@ -65,21 +65,6 @@ The Power BI dashboard provides an interactive view of bike-sharing business per
 - **Registered riders accounted for approximately 81%** of total rides, while casual riders accounted for approximately 19%.
 - Revenue and rider activity show clear **seasonal patterns**, with stronger performance during warmer months.
 
-## 📁 Project Structure
-
-```text
-Bike-Share-Analysis/
-│
-├── bike_share_yr_0.csv
-├── bike_share_yr_1.csv
-├── cost_table.csv
-├── bike_data.sql
-├── Bike_Project.pbix
-├── Dashboard.png
-└── README.md
-
----
-
 ## 👤 Author
 
 **Hung Khanh Nguyen**
